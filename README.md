@@ -38,8 +38,8 @@ In the process...
 
 Install MySudoku with cdn
 
-```
-url
+```url
+https://cdn.jsdelivr.net/gh/maksenajeit33/MySudoku/dist/mysudoku-v1.js
 
 ```
     
